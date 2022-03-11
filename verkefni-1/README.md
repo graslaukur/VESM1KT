@@ -42,7 +42,7 @@ pie
 
 ### Dolore ut velit
 
-```ruby
+```C++
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
