@@ -32,13 +32,11 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 
 ```mermaid
-graph TD;
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+pie
+    title Tölur úr töflunni hér að ofan
+    "Miðja" : 12
+    "Vinstri" : 34
+    "Hægri" : 56
 
 ```
 
