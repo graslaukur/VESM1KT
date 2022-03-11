@@ -42,7 +42,7 @@ pie
 
 ### Dolore ut velit
 
-```CSS
+```HTML
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
