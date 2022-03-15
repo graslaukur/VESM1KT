@@ -8,7 +8,7 @@
   
   Það tók mig nokkrar tilraunir en ég var loksins kominn með útgáfu sem ég var sáttur með. Næsta skrefið var þá að hanna Nafnspjald.
   
-![](logo.png)
+![img](logo.png)
   
   ## Nafnspjald
   
