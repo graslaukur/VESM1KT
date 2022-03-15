@@ -15,7 +15,7 @@
   Ég byrjaði á því að búa til nýa skrá og notaði "print" flipann til þess að velja réttu hlutföllin. Ég importaði síðan logo-inu í skjalið og kom því fyrir ofarlega fyrir miðju á nafnspjaldinu. Mér fannst heldur tómlegat að hafa bara logo-ið á nafnspjaldinu svo ég bætti við bæði símanúmeri og netfangi neðan við logo-ið og aðskildi það með láréttri línu. Ég fann vectora á netinu til þess að merkja símanúmerið og netfangið til þess að gera þetta augljósara.
   
   Þegar ég var kominn með loka afurð til þess að prenta var næsta skref að setja það inn á Glowforge.
-![]
+![Nafnspjald](https://github.com/graslaukur/VESM1KT/blob/main/verkefni-2.1/Nafnspjald.png)
  
 # Skerinn 
   
