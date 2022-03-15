@@ -23,5 +23,9 @@
   
   Þegar allt var tilbúið talaði ég við Inga og hann hjálpaði mer með að gera skeran tilbúinn og passaði að allt væri rétt, hann t.d. breytti öllum objects í paths svo að prentarinn gæti leið þetta og síðan sentum við skránna með öllum upplýsingunum á skeran sem skar nafnspjaldið út í við. Það tók fimm mínótur og ég er mjög sáttur með loka afurðina.
   
+![Nafnspjald](https://github.com/graslaukur/VESM1KT/blob/main/verkefni-2.1/VidarNafnspjald.jpg)
+  
+  
+  
   
   
