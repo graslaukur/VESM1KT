@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55mm"
+   height="55mm"
+   viewBox="0 0 207.87401 207.87401"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5664429"
+     inkscape:cx="81.435672"
+     inkscape:cy="117.47777"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:#ff0000;fill-opacity:0;stroke:#ff0000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.00628, 2.00314;stroke-dashoffset:1.00157;stroke-opacity:1;paint-order:normal"
+       x="66.951401"
+       y="117.64712"
+       id="text4345"><tspan
+         sodipodi:role="line"
+         id="tspan4343"
+         x="66.951401"
+         y="117.64712">Haukur</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Objects">
+    <path
+       id="path33046"
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:2.89134;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:11.5654, 5.78268;stroke-dashoffset:2.89134;stroke-opacity:1;paint-order:normal"
+       inkscape:transform-center-x="0.33294074"
+       inkscape:transform-center-y="-5.6183951"
+       d="m 117.20606,158.08003 c 3.41072,-9.43514 7.39824,-21.27065 11.18062,-32.99824 m 10.75004,-41.323978 c -1.22107,-0.03873 -2.6832,-0.05981 -4.32152,-0.06922 C 121.68686,83.613119 100.16737,82.727757 94.873047,82.625 91.626587,82.56199 82.060841,41.4412 78.814453,41.507812 c -3.256625,0.06682 -12.154205,39.790033 -14.755859,41.75 -2.593475,1.953806 -43.124617,-0.543629 -44.064453,2.564454 -0.942801,3.117884 34.084447,23.855564 35.144531,26.935544 1.056752,3.0703 -13.843271,40.84689 -11.177734,42.70117 2.673942,1.86014 33.221693,-25.04513 36.478515,-25.10156 3.246584,-0.0562 34.179377,29.68468 36.766607,27.72261"
+       sodipodi:nodetypes="cccssssssscc" />
+  </g>
+</svg>
