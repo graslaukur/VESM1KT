@@ -28,3 +28,8 @@
   # 2.3
   ## Kassinn
 Þegar ég var búin með nafnspjaldið var komið að því að gera kassa utan um arduino tölvuna sem við áttum. Við download-uðum viðbót sem heitir "tabbed box maker" við notuðum hana til þess að búa teikninguna fyrir kassan. þegar hún var komin bætti ég við nafninu mínu og skreitti síðan boxið aðeins og sendi það síðan í lazer skeran. Þetta gekk allt mjög vel fyrir sig og það komu ekki upp nein vandræði.
+
+![Kassi1](https://github.com/graslaukur/VESM1KT/blob/main/Verkefni-2.1/Kassi1.jpg)
+![Kassi2](https://github.com/graslaukur/VESM1KT/blob/main/Verkefni-2.1/Kassi2.jpg)
+![Kassi3](https://github.com/graslaukur/VESM1KT/blob/main/Verkefni-2.1/Kassi3.jpg)
+![Kassi4](https://github.com/graslaukur/VESM1KT/blob/main/Verkefni-2.1/Kassi4.jpg)
