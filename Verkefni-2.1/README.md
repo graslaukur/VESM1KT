@@ -27,3 +27,4 @@
 
   # 2.3
   ## Kassinn
+Þegar ég var búin með nafnspjaldið var komið að því að gera kassa utan um arduino tölvuna sem við áttum. Við download-uðum viðbót sem heitir "tabbed box maker" við notuðum hana til þess að búa teikninguna fyrir kassan. þegar hún var komin bætti ég við nafninu mínu og skreitti síðan boxið aðeins og sendi það síðan í lazer skeran. Þetta gekk allt mjög vel fyrir sig og það komu ekki upp nein vandræði.
